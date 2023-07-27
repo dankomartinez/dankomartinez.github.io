@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+date: 2023-07-27 HH:MM:SS +/-TTTT
+categories: [Bloccing, Presentation]
+tags: CV     # TAG names should always be lowercase
 ---
