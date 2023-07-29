@@ -14,9 +14,14 @@ My extracurricular activities during the coursing of my degree were:
 - Sharping my engineering tools like Solidworks, Mathematica. 
 - Learning about programming.
 
-And lately I been interested in Data Engineering.
+[Here][1] you can see some of my certifications 
 
-
-[Here][1] you can see my certifications 
+And lately I'm interested in learning tools like PowerBI, Excel, SQL, tableau  and Data Engineering techniques besides improving my languages skills.
 
 [1]:{{ site.url }}/download/certifications.pdf
+
+During my formation I've learned that not only the universities keep the gates of knowledge.
+
+Certifications of Online Courses
+
+
