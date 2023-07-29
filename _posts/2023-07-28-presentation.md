@@ -14,7 +14,7 @@ My extracurricular activities during the coursing of my degree were:
 - Sharping my engineering tools like Solidworks, Mathematica. 
 - Learning about programming.
 
-And lately I been interesting about Data Engineering.
+And lately I been interested in Data Engineering.
 
 
 [Here][1] you can see my certifications 
