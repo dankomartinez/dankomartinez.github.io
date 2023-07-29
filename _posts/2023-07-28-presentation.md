@@ -8,7 +8,6 @@ pin: true
 math: true
 mermaid: true
 ---
-.............
 [Here][1] you can see my certifications 
 
 [1]:{{ site.url }}/download/certifications.pdf
