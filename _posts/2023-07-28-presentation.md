@@ -18,4 +18,5 @@ And lately I been interesting about Data Engineering.
 
 
 [Here][1] you can see my certifications 
+
 [1]:{{ site.url }}/download/certifications.pdf
