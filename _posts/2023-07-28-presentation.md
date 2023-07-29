@@ -9,7 +9,6 @@ math: true
 mermaid: true
 ---
 .............
-Here you can see my certifications 
-some text and [here is possible to download the file in PDF][1]
+[Here][1] you can see my certifications 
 
 [1]:{{ site.url }}/download/certifications.pdf
